@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Membro Igreja</string>
+    <string name="title_activity_main">Membro Igreja</string>
+    <string name="package_name">com.membro.igreja</string>
+    <string name="custom_url_scheme">com.membro.igreja</string>
+</resources>
